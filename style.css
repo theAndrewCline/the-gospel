@@ -1,0 +1,125 @@
+body,html {
+    min-height: 100%;
+    margin: 0px;
+    font-family: 'oswald', sans-serif;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
+.title {
+    height: 100vh;
+    background-color: #5A81AB;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 1.5s;
+}
+
+.god {
+        height: 85vh;
+    background-color: #fff;
+    color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+
+.our {
+    height: 85vh;
+    background-color: #111;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+
+.sin {
+    height: 85vh;
+    background-color: #922B21;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+.paying {
+    height: 85vh;
+    background-color: #34495E;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+.everyone {
+    height: 85vh;
+    background-color: #D35400;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+.life {
+        height: 85vh;
+    background-color: #EAECEE;
+    color: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+
+.gospel {
+    height: 50vh;
+    background-color: #111;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1.5s;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+    position: fixed
+}
+
+li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #111;
+}
+
+h1 {
+    font-size: 800%;
+}
+h2 {
+    font-size: 500%;
+}
+h3 {
+    font-size: 400%;
+}
